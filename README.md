@@ -17,6 +17,7 @@ O objetivo principal é praticar **testes unitários**, **cobertura de código**
 
 ## 📁 Estrutura do Projeto
 
+```text
 projeto_teste_cobertura/
 │
 ├── projeto/
@@ -33,8 +34,8 @@ projeto_teste_cobertura/
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
+```
 
-  
 ## ⚙️ Como Executar o Projeto  
   
 ### 1. Criar e ativar o ambiente virtual  
