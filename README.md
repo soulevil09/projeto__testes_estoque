@@ -44,15 +44,16 @@ python -m venv .venv
 .venv\Scripts\Activate.ps1  
 # Ativar (Linux/Mac)  
 source .venv/bin/activate
-
+```
 ### 2. Instalar dependências
 
 ```bash
 
 pip install -r requirements.txt  
-
+```
 ### 3. Rodar os testes
 
 ```bash
 
 pytest
+```
