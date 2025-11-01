@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+env/
+*/venv/
+*/.venv/
+
+# Editor-specific files
+.vscode/        # VSCode
+.idea/          # PyCharm/IntelliJ
+*.swp           # Vim swap files
+*~              # Emacs backup files
+
+# OS-specific files
+.DS_Store       # macOS
+Thumbs.db       # Windows
+ehthumbs.db     # Windows
+Desktop.ini     # Windows
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Uploaded files (if any)
+# image.png
+# Tarefa Cobertura de Teste.docx.pdf
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+.coverage_data/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.bak
+*.tmp
